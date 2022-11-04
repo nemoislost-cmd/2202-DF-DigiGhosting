@@ -57,7 +57,7 @@ Navigate to project directory and run main.py
 ## Installation and Usage (Method 2) 
 
 - Download Uipath Studio from https://www.uipath.com
-- Download "ICT2202_DigiGhosting_Ui.zip" from Github
+- Download [ICT2202_DigiGhost_Ui.zip](https://github.com/nemoislost-cmd/2202-DF-DigiGhosting/raw/main/ICT2202_DigiGhost_Ui.zip)
 - Open UiPath Studio and run the 'project' JSON located in the folder.
 - Click on "Debug File" dropdown bar followed by "Run File"
 - Follow the instruction shown in the pop up.
