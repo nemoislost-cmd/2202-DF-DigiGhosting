@@ -1,7 +1,7 @@
 
 # Digi Ghosting
 
-Digi Ghosting is a multi-dimensional program that allows users to delete their digital identity/footprint from popular social media applications. Digi Ghosting allows users to input their email and delete the social media accounts tied to that email. Digi Ghosting supports a GUI for GMAIL based accounts and an external program/script for other email accounts. The relevant instructions can be found under Method 1 for GMAIL users and Method 2 for all other emails on how to set up and run the program.
+Digi Ghosting is a multi-dimensional program that allows users to delete their digital identity/footprint from popular social media applications. Our program aims to erase an individual’s digital footprint significantly on the Internet by erasing their social media presence from the big players in the market such that they become a digital ‘ghost.’  Digi Ghosting allows users to input their email and delete the social media accounts tied to that email. Digi Ghosting supports a GUI for GMAIL based accounts and an external program/script for other email accounts. The relevant instructions can be found under Method 1 for GMAIL users and Method 2 for all other emails on how to set up and run the program.
 
 
 ## Authors
