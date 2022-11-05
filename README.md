@@ -59,10 +59,11 @@ Navigate to project directory and run main.py
 
 For support, email 
 - 2102536@sit.singaporetech.edu.sg 
+- 2101848@sit.singaporetech.edu.sg
 
 
 
-## Demo
+
 
 
 
