@@ -1,0 +1,11 @@
+undetected_chromedriver
+pyperclip
+xlwt
+openpyxl
+re
+selenium
+tkinter
+threading
+logging
+queue
+signal
