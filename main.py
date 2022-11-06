@@ -264,10 +264,9 @@ class MainGUI:
         driver.implicitly_wait(2)
         DISCORD_USERNAME=driver.find_element(By.XPATH,"//*[@id='uid_5']")
         DISCORD_PASSWORD=driver.find_element(By.XPATH,"//*[@id='uid_8']")
-        #DISCORD_USERNAME.send_keys(f"{website_username}\n")
         DISCORD_USERNAME.send_keys(website_username)
         driver.implicitly_wait(2)
-        #DISCORD_PASSWORD.send_keys(f"{website_pw}\n")
+     
         DISCORD_PASSWORD.send_keys(website_pw)
         driver.implicitly_wait(2)
         driver.find_element(By.XPATH,"/html/body/div[2]/div[2]/div/div[1]/div/div/div/div/form/div/div/div[1]/div[2]/button[2]").click()
